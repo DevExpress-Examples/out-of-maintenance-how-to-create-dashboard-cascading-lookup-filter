@@ -3,7 +3,7 @@
   <Title Text="Dashboard" />
   <DataSources>
     <ExtractFileDataSource ComponentName="dashboardExtractDataSource1" Name="OrdersByProducts">
-      <FileName>C:\Data\Orders.dat</FileName>
+      <FileName>Orders.dat</FileName>
       <ExtractSourceDataMember>Orders</ExtractSourceDataMember>
       <ExtractSourceFilter></ExtractSourceFilter>
       <ExtractSource>
