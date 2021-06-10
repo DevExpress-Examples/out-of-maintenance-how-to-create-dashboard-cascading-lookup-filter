@@ -11,3 +11,9 @@ The following techniques are employed:
 The dashboard is shown below.
 
 ![](images/cascading-lookup-filter-dashboard.png)
+
+## Documentation
+
+- [Drill-Down](https://docs.devexpress.com/Dashboard/116913)
+- [Master Filtering](https://docs.devexpress.com/Dashboard/116912)
+- [Interactivity](https://docs.devexpress.com/Dashboard/116692)
