@@ -1,4 +1,9 @@
-# How to Create a Cascading Lookup Filter and Apply it Across Tab Pages and Data Sources
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Filter_Master_Detail_Example/Form1.cs) (VB: [Form1.vb](./VB/Filter_Master_Detail_Example/Form1.vb))
+<!-- default file list end -->
+# Dashboard for WinForms - How to Create a Cascading Lookup Filter and Apply it Across Tab Pages and Data Sources
 
 This example demonstrates a dashboard that implements the cascading filter functionality extended across tab pages and applied to different data sources.
 
